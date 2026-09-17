@@ -6,10 +6,10 @@
 
 ### 💼 Work
 
-- Currently an **Assistant Project Manager** at **KAG Decoration & Landscaping Corp.**
+- I'm currently an **Assistant Project Manager** at **KAG Decoration & Landscaping Corp.**
 
 ### 🎓 Education
 
-- Pursuing a **B.S. in Computer Science** at **Arizona State University**.
+- Pursuing a **B.S. in Computer Science** at [Arizona State University](https://scai.engineering.asu.edu/).
 - Expected graduation: **May 2027**.
 
