@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Khris Vicencio 👋
 
-<!--
-**kvicencio/kvicencio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square)](https://www.linkedin.com/in/khristofer-vicencio/)
 
-Here are some ideas to get you started:
+## Background
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Work
+
+- Currently an **Assistant Project Manager** at **KAG Decoration & Landscaping Corp.**
+
+### 🎓 Education
+
+- Pursuing a **B.S. in Computer Science** at **Arizona State University**.
+- Expected graduation: **May 2027**.
+
